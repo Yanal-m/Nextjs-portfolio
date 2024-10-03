@@ -10,7 +10,7 @@ export default function Home() {
     <section id="home" className="min-h-screen flex items-center justify-center bg-white pt-[180px] md:pt-16 px-[8%]">
       <div className="flex flex-col-reverse lg:flex-row items-center justify-between gap-0 w-full max-w-7xl">
         <div className="lg:w-1/2 text-center lg:text-left mt-10 lg:mt-0">
-          <h3 className="text-2xl font-semibold mb-2">Hello, It's Me</h3>
+          <h3 className="text-2xl font-semibold mb-2">Hello, It&apos;s Me</h3>
           <h1 className="text-5xl font-bold mb-4">Eva Tompson</h1>
           <h3 className="text-2xl mb-4">
             And I&apos;m a <span className="text-[#ff8615]">{animatedText}</span>
