@@ -13,12 +13,12 @@ export default function Home() {
           <h3 className="text-2xl font-semibold mb-2">Hello, It's Me</h3>
           <h1 className="text-5xl font-bold mb-4">Eva Tompson</h1>
           <h3 className="text-2xl mb-4">
-            And I'm a <span className="text-[#ff8615]">{animatedText}</span>
+            And I&apos;m a <span className="text-[#ff8615]">{animatedText}</span>
           </h3>
           <p className="text-lg mb-8 text-gray-700 max-w-xl mx-auto lg:mx-0">
             As a passionate and creative web developer, I specialize in crafting beautiful, 
             user-friendly websites and applications. With a keen eye for design and a love 
-            for clean, efficient code, I bring ideas to life in the digital realm. Let's 
+            for clean, efficient code, I bring ideas to life in the digital realm. Let&apos;s 
             collaborate and turn your vision into an engaging online experience!
           </p>
           <div className="flex justify-center lg:justify-start space-x-4 mb-8">
