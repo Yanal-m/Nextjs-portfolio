@@ -22,7 +22,7 @@ export default function About() {
         <div className="lg:w-1/2">
           <h2 className="text-4xl font-bold mb-4">About <span className="text-[#ff8615]">Me</span></h2>
           <h3 className="text-2xl mb-4">
-            I'm Eva and I'm a <span className="text-[#ff8615]">{animatedText}</span>
+            I&apos;m Eva and I&apos;m a <span className="text-[#ff8615]">{animatedText}</span>
           </h3>
           <div className="text-lg mb-6 text-gray-700">
             <p className="mb-6">
@@ -34,14 +34,14 @@ export default function About() {
             {showMore && (
               <>
                 <p className="mb-6">
-                  Specializing in modern web technologies like React, Next.js, and Node.js, I've had the privilege 
+                  Specializing in modern web technologies like React, Next.js, and Node.js, I&apos;ve had the privilege 
                   of working on diverse projects - from sleek corporate websites to complex e-commerce platforms. 
                   I thrive on challenges and continuously expand my skill set to stay at the forefront of web development trends.
                 </p>
                 <p className="mb-6">
-                  Beyond coding, I'm an avid learner and a team player. I believe in the power of collaboration 
-                  and enjoy working closely with designers and stakeholders to bring visions to life. When I'm not 
-                  crafting code, you'll find me exploring new technologies, contributing to open-source projects, 
+                  Beyond coding, I&apos;m an avid learner and a team player. I believe in the power of collaboration 
+                  and enjoy working closely with designers and stakeholders to bring visions to life. When I&apos;m not 
+                  crafting code, you&apos;ll find me exploring new technologies, contributing to open-source projects, 
                   or sharing my knowledge through tech community meetups.
                 </p>
               </>
